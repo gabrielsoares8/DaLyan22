@@ -10,6 +10,7 @@
 <div align="center">
 <h3 align="center"> Technologies I use most: </h3>
 <p align="center">
+	
 <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
