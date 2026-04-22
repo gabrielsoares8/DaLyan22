@@ -1,70 +1,49 @@
-<h1  color="black" align="center"> Hi, I'm Gabriel </12>
-<h3  align="center">and...Welcome to my github </h3><br>
-
-<p>
-- 🔭 FullStack Web Developer focused on Back-end. <br>
-- 🌱 Fun fact: I already wasted 2 hours coding because of a comma <br>
-- 👨‍💻 Studying <strong>NodeJS, TypeScript, and React Native </strong>.
-</p>
-
-<div align="center">
-<h3 align="center"> Technologies I use most: </h3>
-<p align="center">
-	
-<img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img width="35" height="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-          
-                             
-          
-</p>
- 
- <h3 align="center">My links:</h3>
-<p align="center">
-	<a href="https://twitter.com/DaLyan22" target="_blank"
-		><img
-			align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-			alt="eisquezofrenia"
-			height="30"
-			width="40"
-	/></a>
-	<a href="https://www.instagram.com/gabrielsoaresss_/" target="_blank"
-		><img
-			align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-			alt="brianmendesvnx"
-			height="30"
-			width="40"
-	/></a>
-</p>
-
-
-<p align="center">
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=DaLyan22&show_icons=true&theme=synthwave&title_color=c900cc&text_color=ffffff&bg_color=000000&locale=en&layout=compact&langs_count=8"
-		alt="DaLyan22" />
-</p>
+<h1 align="center">Eu sou o Gabriel</h1>
+<h3 align="center">Bem vindo ao meu GitHub 👋</h3>
 <br>
- </div>
+<p align="center">
+  🔭 Estudante de Ciência da Computação<br>
+  👨‍💻 Estudando <strong>C, C++, JavaScript</strong> e <strong>Python</strong>
+</p>
 
+<h3>🤖 Linguagens e Tecnologias</h3>
+<br>
+<p align="center">
+  <img 
+    alt="C++" 
+    title="C++"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+  />
+  <img 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  <img 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+</p>
 
-               
- 
-          
-
-               
-
-          
-
-          
-
-     
-
-          
-
-
+<h3>📊 Minhas Estatísticas</h3>
+<br>
+<p align="center">
+  <img 
+    alt="Top Langs" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoares8&layout=compact&langs_count=6&theme=tokyonight"
+  />
+</p>
