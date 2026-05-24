@@ -5,7 +5,6 @@
   🔭 Estudante de Ciência da Computação<br>
   👨‍💻 Estudando <strong>C, C++, JavaScript</strong> e <strong>Python</strong>
 </p>
-
 <h3>🤖 Linguagens e Tecnologias</h3>
 <br>
 <p align="center">
@@ -38,12 +37,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
 </p>
-
 <h3>📊 Minhas Estatísticas</h3>
 <br>
 <p align="center">
   <img 
     alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoares8&layout=compact&langs_count=6&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoares8&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"
   />
 </p>
