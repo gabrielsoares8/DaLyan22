@@ -1,29 +1,27 @@
-<h1 align="center">Eu sou o Gabriel</h1>
-<h3 align="center">Bem vindo ao meu GitHub 👋</h3>
-<br>
-<p align="center">
-  🔭 Estudante de Ciência da Computação<br>
-  👨‍💻 Estudando <strong>C, C++, JavaScript</strong> e <strong>Python</strong>
-</p>
+<h2 style="color:black">Gabriel Soares</h2>
 
-<h3>🤖 Linguagens e Tecnologias</h3>
-<br>
-<p align="center">
-  <img alt="C++" title="C++" width="40px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="Python" title="Python" width="40px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="Git" title="Git" width="40px" style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-</p>
+```yaml
+nome:     Gabriel Soares
+curso:    Ciência da Computação
+local:    Belo Horizonte, BR
+status:   estudando sempre
+```
 
-<h3>📊 Minhas Estatísticas</h3>
-<br>
-<p align="center">
-  <img 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoares8&layout=donut&langs_count=6&theme=tokyonight&hide_border=true"
-  />
-</p>
+```yaml
+interesses:
+  - OSINT
+  - cibersegurança
+  - backend
+  - dados
+```
+
+---
+
+### stack
+
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
