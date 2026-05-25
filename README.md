@@ -1,8 +1,7 @@
 <h2 style="color:black">Gabriel Soares</h2>
 
 ```yaml
-nome:     Gabriel Soares
-curso:    Ciência da Computação
+curso:    Ciência da Computação - UFMG
 local:    Belo Horizonte, BR
 status:   estudando sempre
 ```
