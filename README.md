@@ -1,9 +1,10 @@
-<h2 style="color:black">Gabriel Soares</h2>
+Gabriel Soares
+==
 
 ```yaml
-curso:    Ciência da Computação - UFMG
-local:    Belo Horizonte, BR
-status:   estudando sempre
+curso:   Ciência da Computação - UFMG
+local:   Belo Horizonte, BR
+status:  estudando sempre
 ```
 
 ```yaml
@@ -24,3 +25,5 @@ interesses:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-000000?style=for-the-badge&logo=endeavouros&logoColor=7B52B9)
