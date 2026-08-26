@@ -15,6 +15,13 @@ interesses:
 
 ---
 
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gabrielsoares8&layout=compact&langs_count=5&theme=discord_old_blurple)](https://github-stats-extended.vercel.app/api/top-langs?username=gabrielsoares8&layout=compact&langs_count=5&theme=discord_old_blurple)
+
+</div>
+
+
 ### Stack
 
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
